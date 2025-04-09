@@ -26,7 +26,7 @@ const Hero = () => {
         <p className="sm:text-3xl text-xl font-medium text-white font-generalsans">
           Hi, I am Bharanitharan <span className="waving-hand">👋</span>
         </p>
-        <p className="hero_tag text-gray_gradient">UI/UX & REACT Developer</p>
+        <p className="hero_tag text-gray_gradient">UI/UX </p>
       </div>
 
       <div className="mt-10">

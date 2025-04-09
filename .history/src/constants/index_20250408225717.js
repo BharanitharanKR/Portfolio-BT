@@ -217,7 +217,7 @@ export const myProjects = [
     title: '10+ Designing Projects',
     desc: ' I have worked extensively across UI/ UX design, web development, and 3D creative projects—blending code and design to build immersive digital experiences.If youre curious to see more of my work, feel free to explore my full collection on my Behance profile!',
     subdesc: '',
-    href: 'https://www.behance.net/bharanitharan5/',
+    href: 'https://www.behance.net/bharanitharan5',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
@@ -290,12 +290,11 @@ export const workExperiences = [
   },
   {
     id: 3,
-    name: 'Designing & Editing',
+    name: '',
     pos: 'Chief Editor and Designer',
-    duration: '2023 - Present',
+    duration: '2019 - 2020',
     title:
-      'As the Chief Designer and Editor, I have led video editing and design efforts across various projects, consistently delivering impactful visual content for our organization',
-    icon: '/assets/notion.svg',
+'As the Chief Designer and Editor, I’ve led video editing and design efforts across various projects, consistently delivering impactful visual content for our organization'    icon: '/assets/notion.svg',
     animation: 'salute',
   },
 ];

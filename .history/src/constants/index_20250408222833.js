@@ -36,8 +36,7 @@ export const clientReviews = [
     position: 'Graphic Designer',
     img: 'assets/review2.png',
     review:
-      'Bharanitharan is not only exceptional at what he does — he brings so much more to the table. His unique workflow, game-changing design strategies, and seamless communication with the team made a noticeable difference in how we operated. He doesnt just complete tasks — he elevates the entire process, his ability to connect with the team and align everyone toward a shared vision is what truly made the work speak for itself.',
-  },
+'Bharanitharan is not only exceptional at what he does — he brings so much more to the table. His unique workflow, game-changing design strategies, and seamless communication with the team made a noticeable difference in how we operated. He doesn't just complete tasks — he elevates the entire process. His ability to connect with the team and align everyone toward a shared vision is what truly made the work speak for itself.',  },
   {
     id: 3,
     name: 'Orange Studious',
@@ -48,8 +47,8 @@ export const clientReviews = [
   },
   {
     id: 4,
-    name: 'Ganeshan',
-    position: 'InfoZars',
+    name: 'Ether Smith',
+    position: 'CEO of BrightStar Enterprises',
     img: 'assets/review4.png',
     review:
       'Bharanitharan is not just a skilled developer — he’s a true asset to any team. What sets him apart is his unique workflow and the way he builds a genuine connection within the team. He brings clarity, creativity, and calmness to even the most complex tasks. His ability to merge design thinking with development makes the process seamless and collaborative. More than just delivering results, he uplifts the team with his presence. Any company would be fortunate to have someone like him onboard',
@@ -217,7 +216,7 @@ export const myProjects = [
     title: '10+ Designing Projects',
     desc: ' I have worked extensively across UI/ UX design, web development, and 3D creative projects—blending code and design to build immersive digital experiences.If youre curious to see more of my work, feel free to explore my full collection on my Behance profile!',
     subdesc: '',
-    href: 'https://www.behance.net/bharanitharan5/',
+    href: 'https://www.behance.net/bharanitharan5',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
@@ -270,31 +269,31 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: 'React-Tailwind',
-    pos: 'Frond-Event Web Developer',
-    duration: '2024 - Present',
+    name: 'Framer',
+    pos: 'Lead Web Developer',
+    duration: '2022 - Present',
     title:
-      'I’ve been working with React and Tailwind to build responsive, modern web interfaces. During my internship at Inforazars, I deepened my front-end development skills by contributing to real-world projects and collaborating closely with the dev team',
+      'Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.',
     icon: '/assets/framer.svg',
     animation: 'victory',
   },
   {
     id: 2,
     name: 'Figma',
-    pos: 'Ui_UX Designer',
-    duration: '2023 - 2025',
+    pos: 'Web Developer',
+    duration: '2020 - 2022',
     title:
-      'Figma is my collaborative design platform of choice. During my Internship at Quantuva Technologies I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.',
+      'Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.',
     icon: '/assets/figma.svg',
     animation: 'clapping',
   },
   {
     id: 3,
-    name: 'Designing & Editing',
-    pos: 'Chief Editor and Designer',
-    duration: '2023 - Present',
+    name: 'Notion',
+    pos: 'Junior Web Developer',
+    duration: '2019 - 2020',
     title:
-      'As the Chief Designer and Editor, I have led video editing and design efforts across various projects, consistently delivering impactful visual content for our organization',
+      'Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.',
     icon: '/assets/notion.svg',
     animation: 'salute',
   },
